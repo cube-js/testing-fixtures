@@ -1,0 +1,14 @@
+[
+    {
+        "name": "minimal",
+        "files": [
+            "github-events-2015-01-01.tar.gz"
+        ]
+    },
+    {
+        "name": "large",
+        "files": [
+            "github-events-2015-01-01.tar.gz"
+        ]
+    }
+]
