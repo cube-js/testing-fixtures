@@ -2,7 +2,8 @@
     {
         "name": "minimal",
         "files": [
-            "github-events-2015-01-01.tar.gz"
+            "github-events-2015-01-01.tar.gz",
+            "github-events-2015-01-01.1000.tar.gz",
         ]
     },
     {
