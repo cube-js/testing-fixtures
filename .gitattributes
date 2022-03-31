@@ -1,1 +1,1 @@
-*.tar.gz filter=lfs diff=lfs merge=lfs -text
+github-commits-000.csv.tar.gz filter=lfs diff=lfs merge=lfs -text
