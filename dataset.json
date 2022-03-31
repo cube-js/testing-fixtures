@@ -3,14 +3,14 @@
         "name": "minimal",
         "files": [
             "github-events-2015-01-01.tar.gz",
-            "github-events-2015-01-01.1000.tar.gz",
+            "github-events-2015-01-01.1000.tar.gz"
         ]
     },
     {
         "name": "large",
         "files": [
             "github-events-2015-01-01.tar.gz",
-	    "github-commits-000.csv.tar.gz",
+            "github-commits-000.csv.tar.gz"
         ]
     }
 ]
