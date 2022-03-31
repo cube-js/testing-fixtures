@@ -9,7 +9,8 @@
     {
         "name": "large",
         "files": [
-            "github-events-2015-01-01.tar.gz"
+            "github-events-2015-01-01.tar.gz",
+	    "github-commits-000.csv.tar.gz",
         ]
     }
 ]
